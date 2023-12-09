@@ -1,4 +1,5 @@
-all : parsec-build
+#all : parsec-build
+all : 
 HOOKS_DIR=../tools/hooks/
 
 parsec-core : parsec-2.1/.parsec_source
